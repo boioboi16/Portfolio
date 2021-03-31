@@ -862,16 +862,17 @@ footer span a{
   margin: 0;
   }
   .home .home-content .text-1{
-    font-size: 17px;
+    font-size: 15px !important ;
   }
   .home .home-content .text-2{
-    font-size: 35px;
+    font-size:45px !important;
+    
   }
   .home .home-content .text-3{
-    font-size: 17px;
+    font-size: 15px !important;
   }
   .home .home-content a{
-  font-size: 10px;
+  font-size: 15px !important;
   
   padding:5px;
   }
